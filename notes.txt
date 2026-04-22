@@ -1,0 +1,1 @@
+python run_experiments.py --data_root . --output_root . --device auto --epochs 20 --batch_size 128 --amp
